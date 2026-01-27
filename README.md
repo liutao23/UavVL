@@ -8,7 +8,7 @@
 2. 多线程并行化TopK加速代码将在论文被接受后提供
 3. 原始数据太大我在仓库里面删除了，一个示例文件大概5g，有需要的发邮件向我索取，然后将压缩包解压在工作目录就好！
 4. 或者有好心人愿意提供百度云盘也是极好的，我的百度云盘空间不够了
-5. <img width="131" height="153" alt="image" src="https://github.com/user-attachments/assets/e6400dba-cab3-492d-a89c-340081f8e606" />
+ <img width="131" height="153" alt="image" src="https://github.com/user-attachments/assets/e6400dba-cab3-492d-a89c-340081f8e606" />
 
 ## 支持的模型
 
