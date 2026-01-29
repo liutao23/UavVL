@@ -41,6 +41,7 @@
 - https://github.com/cvg/LightGlue.git
 - https://github.com/zju3dv/LoFTR.git
 - https://github.com/zju3dv/EfficientLoFTR.git
+- https://github.com/danini/magsac.git
 ## 引用（待更新）
 刘涛， 任侃， 温世博， 等. 弱纹理下物理引导几何校验无人机视觉定位[J]. 航空学报， 2026， 46(X): XXXXX.
 LIU T, REN K, WEN S B, et al. Physical-Prior Guided Geometry Verification for UAV Visual Localization under Weak Textures[J]. Acta Aeronautica et Astronautica Sinica, 2025, 46(X): XXXXX (in Chinese).
