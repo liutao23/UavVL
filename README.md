@@ -27,10 +27,12 @@
 - TopicFM
 
 ## 论文状态
-
-我们论文已经投稿。如使用本仓库代码，请在我们论文刊出后进行引用。
 代码可能有错误，欢迎指正！
 如有建议和疑问可以在issue咨询：
+我们论文已经被录用。如使用本仓库代码，请在我们论文刊出后进行引用。
+## 引用
+引用格式：	刘涛, 任侃, 温世博, 等．弱纹理下物理引导几何校验无人机视觉定位[J]．航空学报, 2026, 47(23): 333437．LIU T, REN K, WEN S B et al. Physics-Guided Geometric Verification for UAV Visual Localization under Weak-Texture Conditions [J]. Acta Aeronautica et Astronautica Sinica, 2026, 47(23): 333437 (in Chinese). doi: 10.7527/S1000-6893.2026.33437
+
 
 ## 致谢
 
@@ -43,6 +45,5 @@
 - https://github.com/zju3dv/LoFTR.git
 - https://github.com/zju3dv/EfficientLoFTR.git
 - https://github.com/danini/magsac.git
-## 引用
-引用格式：	刘涛, 任侃, 温世博, 等．弱纹理下物理引导几何校验无人机视觉定位[J]．航空学报, 2026, 47(23): 333437．LIU T, REN K, WEN S B et al. Physics-Guided Geometric Verification for UAV Visual Localization under Weak-Texture Conditions [J]. Acta Aeronautica et Astronautica Sinica, 2026, 47(23): 333437 (in Chinese). doi: 10.7527/S1000-6893.2026.33437
+
 
