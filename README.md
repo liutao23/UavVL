@@ -5,9 +5,8 @@
 ## 注意
 
 1. 本代码包含论文中的无人机两阶段定位，同时扩展了一个YOLO检测模块，与论文内容不冲突
-2. 多线程并行化TopK加速代码将在论文被接受后提供
-3. 原始数据太大我在仓库里面删除了，一个示例文件大概5g，有需要的发邮件向我索取，然后将压缩包解压在工作目录就好！也可以等稿件录用以后，我们公布全部的卫星图处理脚本，自行处理也是可以的
-4. 有任何问题都可以发邮件询问，看到都会及时回复，也可以在issue里面提问
+2. 原始数据太大我在仓库里面删除了，一个示例文件大概5g，有需要的发邮件向我索取，然后将压缩包解压在工作目录就好！也可以等稿件录用以后，我们公布全部的卫星图处理脚本，自行处理也是可以的
+3. 有任何问题都可以发邮件询问，看到都会及时回复，也可以在issue里面提问
  <img width="131" height="153" alt="image" src="https://github.com/user-attachments/assets/e6400dba-cab3-492d-a89c-340081f8e606" />
 
 ## 支持的模型
@@ -24,6 +23,8 @@
 - DoGHardNet+LightGlue
 - LoFTR_fp16
 - LoFTR_mp
+- ASFormer
+- TopicFM
 
 ## 论文状态
 
@@ -42,5 +43,6 @@
 - https://github.com/zju3dv/LoFTR.git
 - https://github.com/zju3dv/EfficientLoFTR.git
 - https://github.com/danini/magsac.git
-## 引用（待更新）
+## 引用
+引用格式：	刘涛, 任侃, 温世博, 等．弱纹理下物理引导几何校验无人机视觉定位[J]．航空学报, 2026, 47(23): 333437．LIU T, REN K, WEN S B et al. Physics-Guided Geometric Verification for UAV Visual Localization under Weak-Texture Conditions [J]. Acta Aeronautica et Astronautica Sinica, 2026, 47(23): 333437 (in Chinese). doi: 10.7527/S1000-6893.2026.33437
 
